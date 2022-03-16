@@ -8,13 +8,12 @@
 - I learn guitar on my time off
 
 ### Technologies
-[<img align="left" alt="COBOL" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.teepublic.com%2Fpin%2F6574734-cobol-programmer&psig=AOvVaw1t0TUg5eYXNompDUU8B5lo&ust=1647538686274000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPiPnoaWy_YCFQAAAAAdAAAAABAJ"/>]
-
-
-[<img align="left" alt="C#" width="26px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2F52045ed9d775b4ac9286e51c28b878edca6bb1750815b423c8d06c7976040ab7%2F68747470733a2f2f6d617274696e63686176657a2e6769746875622e696f2f4173736574732f4c6f676f732f6373686172702e737667&imgrefurl=https%3A%2F%2Fgithub.com%2FMartinChavez%2FCSharp&tbnid=ehRRUk7OZIwABM&vet=12ahUKEwi3-YrBl8v2AhXpN-wKHRgVAq4QMygAegUIARCEAQ..i&docid=ofk8p6IKAn08KM&w=2500&h=2500&q=c%23%20in%3Agithubusercontent.com&client=safari&ved=2ahUKEwi3-YrBl8v2AhXpN-wKHRgVAq4QMygAegUIARCEAQ"/>]
-[<img align="left" alt="C#" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.teepublic.com%2Fpin%2F6574734-cobol-programmer&psig=AOvVaw1t0TUg5eYXNompDUU8B5lo&ust=1647538686274000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPiPnoaWy_YCFQAAAAAdAAAAABAJ"/>]
+[<img align="left" alt="COBOL" width="32x" src="https://res.cloudinary.com/teepublic/image/private/s--UodUY2TA--/c_crop,x_10,y_10/c_fit,w_830/c_crop,g_north_west,h_1038,w_1038,x_-104,y_-159/l_upload:v1565806151:production:blanks:vdbwo35fw6qtflw9kezw/fl_layer_apply,g_north_west,x_-215,y_-270/b_rgb:262c3a/c_limit,f_jpg,h_630,q_90,w_630/v1572815042/production/designs/6574734_0.jpg"/>]
+[<img align="left" alt="C#" width="32px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"/>]
+[<img align="left" alt="C/C++" width="32px" src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png"/>]
+[<img align="left" alt="SAP" width="32px" src="https://symbols.getvecta.com/stencil_95/15_sap-icon.2d3b2c8a10.svg"/>]
+[<img align="left" alt="Ruby" width="32px" src="https://railsware.com/blog/wp-content/uploads/2017/12/Ruby-2.0-Enumerable.png"/>]
 
 
 
 [website]: https://rogerionascimento.com
-[cobol]: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.teepublic.com%2Fpin%2F6574734-cobol-programmer&psig=AOvVaw1t0TUg5eYXNompDUU8B5lo&ust=1647538686274000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPiPnoaWy_YCFQAAAAAdAAAAABAJ
