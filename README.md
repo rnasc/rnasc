@@ -1,11 +1,22 @@
 ## Hey, zup? I'm Rogerio / a.k.a [rnasc][website]
 
 ### Who am I?
-- Father, husband, son and developer. 
-- Started learning about computers in 1987 with BASIC (yep, before 'visual' came into play)
-- Professionally working with IT since 1991, over 30 years ago (can't believe it has been that long)
-- Although I'm a developer in some languages, in 2003 I became a SAP Consultant and work with that since (coding in my free time)
-- Also, on my free time, I play some guitar
+- Husband, father, son — and a developer since the 80s.
+- Started coding in 1987 with BASIC, back when "Visual" wasn't a thing yet.
+- Working professionally with IT since 1991.
+- Developer at heart, even after 20+ years working as a SAP Consultant and enterprise solutions specialist.
+- Passionate about technology, business processes, systems architecture, and building things that actually solve problems.
+- Still coding during my free time — mostly Ruby and personal projects.
+- Guitar player whenever the compiler allows it 🎸
+
+*Old enough to have coded in COBOL. Curious enough to still learn new stacks for fun.*
+
+### Tech journey
+
+Over the years I've worked with everything from COBOL and C to SAP, Ruby, integrations, enterprise systems, automation, and modern web development.
+
+I enjoy connecting business needs with technology in a practical way — especially where architecture, process improvement, and development meet.
+
 
 ### Technologies
 [<img align="left" alt="COBOL" width="32x" src="https://res.cloudinary.com/teepublic/image/private/s--UodUY2TA--/c_crop,x_10,y_10/c_fit,w_830/c_crop,g_north_west,h_1038,w_1038,x_-104,y_-159/l_upload:v1565806151:production:blanks:vdbwo35fw6qtflw9kezw/fl_layer_apply,g_north_west,x_-215,y_-270/b_rgb:262c3a/c_limit,f_jpg,h_630,q_90,w_630/v1572815042/production/designs/6574734_0.jpg"/>][website]
